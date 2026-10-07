@@ -1,0 +1,7 @@
+{
+  "name": "@shipyard/ui",
+  "private": true,
+  "exports": {
+    "./*": "./src/*.tsx"
+  }
+}
